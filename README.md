@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/GODL0111/GODL0111/blob/main/github-header-image.png)
+![MasterHead](https://github.com/GODL0111/GODL0111/blob/main/Screenshot%202024-11-25%20155816.png)
 <h1 align="center">Hi 👋, I'm Arin Karmakar</h1>
 <h3 align="center">An ensuing developer and data analyst.</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif")</img>
