@@ -41,7 +41,7 @@
 ## ⚡ **CURRENT MISSION PARAMETERS**
 
 ```yaml
-Project_Alpha: "ECO-RECYCLE"
+Project_Alpha: "Song Virality Predict"
 Status: "█████████░ 90% COMPLETE"
 Objective: "Sustainable Tech Solutions"
 Classification: "HIGH PRIORITY"
