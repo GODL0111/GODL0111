@@ -1,32 +1,172 @@
 ![MasterHead](https://github.com/GODL0111/GODL0111/blob/main/Screenshot%202024-11-25%20155816.png)
-<h1 align="center">Hi 👋, I'm Arin Karmakar</h1>
-<h3 align="center">An ensuing developer and data analyst.</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif")</img>
+# ⚡ NEURAL NETWORK ACTIVATED ⚡
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=godl0111&label=Profile%20views&color=0e75b6&style=flat" alt="godl0111" /> </p>
+```ascii
+    ╔═══════════════════════════════════════════════════════════════════╗
+    ║  ██████╗  ██████╗ ██████╗ ██╗      ██████╗ ██╗ ██╗ ██╗           ║
+    ║ ██╔════╝ ██╔═══██╗██╔══██╗██║     ██╔═████╗███║███║███║           ║
+    ║ ██║  ███╗██║   ██║██║  ██║██║     ██║██╔██║╚██║╚██║╚██║           ║
+    ║ ██║   ██║██║   ██║██║  ██║██║     ████╔╝██║ ██║ ██║ ██║           ║
+    ║ ╚██████╔╝╚██████╔╝██████╔╝███████╗╚██████╔╝ ██║ ██║ ██║           ║
+    ║  ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═╝ ╚═╝ ╚═╝           ║
+    ╚═══════════════════════════════════════════════════════════════════╝
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=godl0111" alt="godl0111" /></a> </p>
+<div align="left">
 
-<p align="left"> <a href="https://twitter.com/im@arinkarmakar" target="blank"><img src="https://img.shields.io/twitter/follow/im@arinkarmakar?logo=twitter&style=for-the-badge" alt="im@arinkarmakar" /></a> </p>
+### 🌌 **[ARIN KARMAKAR]** 🌌
+**『 DATA ARCHITECT | CODE SYNTHESIZER | DIGITAL ALCHEMIST 』**
 
-- 🔭 I’m currently working on **ECO-RECYCLE**
+*"Transforming Raw Data Into Digital Intelligence"*
 
-- 🌱 I’m currently learning **Java, JS.**
+</div>
 
-- 💬 Ask me about **python,C,tableau.**
+---
 
-- 📫 How to reach me **arinkarmakar@3gmail.com**
+## 🔮 **SYSTEM STATUS**
 
-- ⚡ Fun fact **I think I am good in builds**
+```
+┌─────────────────────────── NEURAL INTERFACE ───────────────────────────┐
+│  ████████████████████████████████████████████████████████████ 100%     │
+│                                                                         │
+│  [●] COGNITIVE_PROCESSING....................................ACTIVE   │
+│  [●] DATA_ANALYSIS_ENGINE....................................ONLINE   │
+│  [●] MACHINE_LEARNING_CORE...................................RUNNING  │
+│  [●] CREATIVE_ALGORITHMS.....................................ENGAGED  │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/im@arinkarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im@arinkarmakar" height="30" width="40" /></a>
-</p>
+<img align="right" alt="Digital Matrix" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## ⚡ **CURRENT MISSION PARAMETERS**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godl0111&show_icons=true&locale=en&layout=compact" alt="godl0111" /></p>
+```yaml
+Project_Alpha: "ECO-RECYCLE"
+Status: "█████████░ 90% COMPLETE"
+Objective: "Sustainable Tech Solutions"
+Classification: "HIGH PRIORITY"
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godl0111&show_icons=true&locale=en" alt="godl0111" /></p>
+## 🧬 **SKILL MATRIX ANALYSIS**
+
+### 🔺 **PRIMARY PROTOCOLS**
+```
+▓▓▓▓▓▓▓▓▓▓ PYTHON      ████████████████████ 100%
+▓▓▓▓▓▓▓▓░░ C/C++       ████████████████░░░░  80%
+▓▓▓▓▓▓▓▓▓░ TABLEAU     ██████████████████░░  90%
+```
+
+### 🔸 **LEARNING SUBROUTINES**
+```
+→ JAVA.........[████████░░] Integrating
+→ JAVASCRIPT...[██████░░░░] Processing
+→ DATA_SCIENCE.[████████░░] Optimizing
+```
+
+---
+
+## 🛸 **TECHNOLOGY ARSENAL**
+
+<div align="center">
+
+### ⚛️ **CORE SYSTEMS** ⚛️
+
+| **NEURAL NETWORKS** | **DATA PROCESSING** | **INTERFACE DESIGN** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
+
+### 🌐 **CLOUD INFRASTRUCTURE** 🌐
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🎮 **CREATIVE ENGINES** 🎮
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
+---
+
+## 📡 **TRANSMISSION PROTOCOLS**
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    ESTABLISH CONNECTION                      ║
+╠══════════════════════════════════════════════════════════════╣
+║  📧 DATA_STREAM: arinkarmakar@gmail.com                      ║
+║  🐦 SOCIAL_LINK: @im_arinkarmakar                           ║
+║  🌐 NEURAL_NODE: github.com/GODL0111                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/im_arinkarmakar?style=social)](https://twitter.com/im_arinkarmakar)
+[![GitHub followers](https://img.shields.io/github/followers/GODL0111?style=social)](https://github.com/GODL0111)
+
+</div>
+
+---
+
+## 📊 **PERFORMANCE ANALYTICS**
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GODL0111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_color=00D4FF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GODL0111&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=00D4FF"/>
+
+</div>
+
+---
+
+## 🏆 **ACHIEVEMENT MATRIX**
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GODL0111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌟 **ACTIVITY PULSE**
+
+<div align="center">
+
+[![Arin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GODL0111&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 **"IN CODE WE TRUST, IN DATA WE DISCOVER"** 🔥
+
+```
+    ┌─────────────────────────────────────────────────────────────────┐
+    │  ⚡ BUILDING THE FUTURE, ONE ALGORITHM AT A TIME ⚡            │
+    └─────────────────────────────────────────────────────────────────┘
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=GODL0111&label=NEURAL%20CONNECTIONS&color=00d4ff&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+*★ ° . *　　　°　.　° . ✦ . 　 ˚ 　　　　 ✦ 　　　° . ° . 　✦ 　　 ˚ 　　　*<br>
+**"The future belongs to those who can harness the power of data and imagination"**<br>
+*° . ✦ 　　 ˚ 　　　*　　　° .　° . ✦ 　　　　 ˚ 　　　° . ° . 　✦ ° . ★*
+
+</div>
