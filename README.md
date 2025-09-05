@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/GODL0111/GODL0111/blob/main/Screenshot%202024-11-25%20155816.png)
 # ⚡ NEURAL NETWORK ACTIVATED ⚡
 
 ```ascii
@@ -12,7 +11,7 @@
     ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="left">
+<p align="center">
 
 ### 🌌 **[ARIN KARMAKAR]** 🌌
 **『 DATA ARCHITECT | CODE SYNTHESIZER | DIGITAL ALCHEMIST 』**
@@ -163,10 +162,10 @@ Classification: "HIGH PRIORITY"
 
 ---
 
-<div align="center">
+<p align="center">
 
 *★ ° . *　　　°　.　° . ✦ . 　 ˚ 　　　　 ✦ 　　　° . ° . 　✦ 　　 ˚ 　　　*<br>
 **"The future belongs to those who can harness the power of data and imagination"**<br>
 *° . ✦ 　　 ˚ 　　　*　　　° .　° . ✦ 　　　　 ˚ 　　　° . ° . 　✦ ° . ★*
 
-</div>
+</p>
