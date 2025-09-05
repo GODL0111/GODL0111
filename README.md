@@ -4,7 +4,7 @@
 
 <pre>
     ╔═══════════════════════════════════════════════════════════════════╗
-    ║  ██████╗  ██████╗ ██████╗ ██╗      ██████╗ ██╗ ██╗ ██╗           ║
+    ║  ██████╗  ██████╗ ██████╗ ██╗      ██████╗ ██╗ ██╗ ██╗            ║
     ║ ██╔════╝ ██╔═══██╗██╔══██╗██║     ██╔═████╗███║███║███║           ║
     ║ ██║  ███╗██║   ██║██║  ██║██║     ██║██╔██║╚██║╚██║╚██║           ║
     ║ ██║   ██║██║   ██║██║  ██║██║     ████╔╝██║ ██║ ██║ ██║           ║
@@ -21,32 +21,33 @@
 
 </div>
 
----
 
 ## 🔮 **SYSTEM STATUS**
 
 ```
 ┌─────────────────────────── NEURAL INTERFACE ───────────────────────────┐
 │  ████████████████████████████████████████████████████████████ 100%     │
-│                                                                         │
-│  [●] COGNITIVE_PROCESSING....................................ACTIVE   │
-│  [●] DATA_ANALYSIS_ENGINE....................................ONLINE   │
-│  [●] MACHINE_LEARNING_CORE...................................RUNNING  │
-│  [●] CREATIVE_ALGORITHMS.....................................ENGAGED  │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+│                                                                        │
+│  [●] COGNITIVE_PROCESSING....................................ACTIVE    │
+│  [●] DATA_ANALYSIS_ENGINE....................................ONLINE    │
+│  [●] MACHINE_LEARNING_CORE...................................RUNNING   │
+│  [●] CREATIVE_ALGORITHMS.....................................ENGAGED   │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img align="right" alt="Digital Matrix" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 ## ⚡ **CURRENT MISSION PARAMETERS**
+<div align="center">
+<img align="right" alt="Digital Matrix" height="123px" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-```yaml
+<pre style="text-align: left;" ymlang="yaml" highlight="yaml" height="123px">
 Project_Alpha: "Song Virality Predict"
 Status: "██████░░░░75% COMPLETE"
 Objective: "Sustainable Tech Solutions"
 Classification: "HIGH PRIORITY"
-```
+</pre>
+</div>
 
 ## 🧬 **SKILL MATRIX ANALYSIS**
 
@@ -64,7 +65,6 @@ Classification: "HIGH PRIORITY"
 → DATA_SCIENCE.[████████░░] Optimizing
 ```
 
----
 
 ## 🛸 **TECHNOLOGY ARSENAL**
 
@@ -74,25 +74,24 @@ Classification: "HIGH PRIORITY"
 
 | **NEURAL NETWORKS** | **DATA PROCESSING** | **INTERFACE DESIGN** |
 |:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-306998?style=plastic&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black) |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white) |
 
 ### 🌐 **CLOUD INFRASTRUCTURE** 🌐
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 
 ### 🎮 **CREATIVE ENGINES** 🎮
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=plastic&logo=unreal-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=plastic&logo=blender&logoColor=white)
 
 </div>
 
----
 
 ## 📡 **TRANSMISSION PROTOCOLS**
 
@@ -102,7 +101,7 @@ Classification: "HIGH PRIORITY"
 ╔══════════════════════════════════════════════════════════════╗
 ║                    ESTABLISH CONNECTION                      ║
 ╠══════════════════════════════════════════════════════════════╣
-║  📧 DATA_STREAM: arinkarmakar@gmail.com                      ║
+║  📧 DATA_STREAM: arinkarmakar@gmail.com                     ║
 ║  🐦 SOCIAL_LINK: @im_arinkarmakar                           ║
 ║  🌐 NEURAL_NODE: github.com/GODL0111                        ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -113,7 +112,6 @@ Classification: "HIGH PRIORITY"
 
 </div>
 
----
 
 ## 📊 **PERFORMANCE ANALYTICS**
 
@@ -125,7 +123,6 @@ Classification: "HIGH PRIORITY"
 
 </div>
 
----
 
 ## 🏆 **ACHIEVEMENT MATRIX**
 
@@ -135,7 +132,6 @@ Classification: "HIGH PRIORITY"
 
 </div>
 
----
 
 ## 🌟 **ACTIVITY PULSE**
 
@@ -145,7 +141,6 @@ Classification: "HIGH PRIORITY"
 
 </div>
 
----
 
 <div align="center">
 
@@ -157,16 +152,15 @@ Classification: "HIGH PRIORITY"
     └─────────────────────────────────────────────────────────────────┘
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=GODL0111&label=NEURAL%20CONNECTIONS&color=00d4ff&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=GODL0111&label=NEURAL%20CONNECTIONS&color=00d4ff&style=plastic)
 
 </div>
 
----
 
 <p align="center">
 
-*★ ° . *　　　°　.　° . ✦ . 　 ˚ 　　　　 ✦ 　　　° . ° . 　✦ 　　 ˚ 　　　*<br>
-**"The future belongs to those who can harness the power of data and imagination"**<br>
-*° . ✦ 　　 ˚ 　　　*　　　° .　° . ✦ 　　　　 ˚ 　　　° . ° . 　✦ ° . ★*
+*★ ° . *　　　°　.　° . ✦ . 　 ˚ 　　　　 ✦ 　　　° . ° . 　✦ 　　 ˚ 　　　*　　✦ *　　　　°<br>
+　**"The future belongs to those who can harness the power of data and imagination"**<br>
+*° . ✦ 　　 ˚ 　　　*　　　° .　° . ✦ 　　　　 ˚ 　　　° . ° . 　✦ ° . ★ *
 
 </p>
