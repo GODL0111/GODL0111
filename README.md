@@ -1,6 +1,6 @@
-
+# ⚡ NEURAL NETWORK ACTIVATED ⚡
 <div align="center">
-#  ⚡ NEURAL NETWORK ACTIVATED ⚡
+
 
 <pre>
     ╔═══════════════════════════════════════════════════════════════════╗
